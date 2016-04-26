@@ -1,0 +1,17 @@
+{
+  "name": "angular2-skeleton-app",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Christopher Siems <csiems@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/csiems/Angular2Boilerplate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

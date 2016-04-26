@@ -11,7 +11,17 @@ Angular2 Project Boilerplate is intended to be a starting point for building Ang
 A note about what technologies are used in this projects can be included here.
 
 ## Setup
-*Clone this repository and launch the index.html file in your browser.
+* clone repo
+* npm install
+* bower install
+* install globals if needed (gulp, bower, sass, typescript, typescript packages.)
+  * npm install gulp -g
+  * npm install bower -g
+  * gem install sass
+  * npm install typescript -g
+  * apm install atom-typescript
+* gulp build
+* gulp serve
 
 ## Technologies Used
 
