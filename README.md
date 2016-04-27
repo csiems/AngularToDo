@@ -1,14 +1,12 @@
-# Angular2 Project Boilerplate
+# Angular Two Do List
 
-#### April 26, 2016
+#### April 27, 2016
 
 #### By Christopher Siems
 
 ## Description
 
-Angular2 Project Boilerplate is intended to be a starting point for building Angular2 applications. Normally a description of the project would be included here.
-
-A note about what technologies are used in this projects can be included here.
+A very mediocre experiment with Angular2 components and views.
 
 ## Setup
 * clone repo
